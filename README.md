@@ -1,9 +1,6 @@
 # COUNTER
-![preview](./image/vanilla_js_counter.png)
-
-</br>
-
 A simple counter app made with vanilla js
+![preview](./image/vanilla_js_counter.png)
 
 </br>
 </br>
