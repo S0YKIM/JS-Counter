@@ -1,5 +1,4 @@
 # PREVIEW
-</br>
 ![preview](./image/vanilla_js_counter.png)
 
 </br>
