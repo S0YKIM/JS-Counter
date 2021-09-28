@@ -1,11 +1,11 @@
 # COUNTER
-A simple counter app made with vanilla js
+![preview](./image/vanilla_js_counter.png)
 
 </br>
 
-## Preview
-![preview](./image/vanilla_js_counter.png)
+A simple counter app made with vanilla js
 
+</br>
 </br>
 
 ## REQUIREMENTS
