@@ -1,10 +1,11 @@
-# COUNTER
-A simple counter app made with vanilla js
+# PREVIEW
 </br>
 ![preview](./image/vanilla_js_counter.png)
 
 </br>
-</br>
+
+## COUNTER
+A simple counter app made with vanilla js
 
 ## REQUIREMENTS
 - [x] `Counter` 클래스를 별도의 파일 모듈로 만들어 import/export 사용
