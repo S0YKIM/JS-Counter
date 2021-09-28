@@ -1,12 +1,12 @@
 # COUNTER
 A simple counter app made with vanilla js
 
-
+</br>
 
 ## Preview
 ![preview](./image/vanilla_js_counter.png)
 
-
+</br>
 
 ## REQUIREMENTS
 - [x] `Counter` 클래스를 별도의 파일 모듈로 만들어 import/export 사용
@@ -14,7 +14,7 @@ A simple counter app made with vanilla js
 - [x] 숫자: 현재 카운터 값
 - [x] 버튼: 증가, 감소, 리셋
 
-
+</br>
 
 ## BONUS
 
