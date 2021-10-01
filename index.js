@@ -31,17 +31,17 @@ function App() {
 
     plusBtn.addEventListener('click', function(){
         number.textContent = counter.increase();
-        store.setLocalStorage(counter._count);
+        store.setLocalStorage(counter.count);
     });
     
     minusBtn.addEventListener('click', function(){
         number.textContent = counter.decrease();;
-        store.setLocalStorage(counter._count);
+        store.setLocalStorage(counter.count);
     });
     
     resetBtn.addEventListener('click', function(){
         number.textContent = counter.reset();;
-        store.setLocalStorage(counter._count);
+        store.setLocalStorage(counter.count);
     });
 }
 

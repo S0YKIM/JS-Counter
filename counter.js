@@ -1,19 +1,19 @@
 class Counter {
     constructor (initValue = 0) {
-        this._count = initValue;
+        this.count = initValue;
     }
     increase() {
-        this._count += 1;
-        return this._count;
+        this.count += 1;
+        return this.count;
     }
     decrease() {
-        if (this._count > 0)
-            this._count -= 1;
-        return this._count;
+        if (this.count > 0)
+            this.count -= 1;
+        return this.count;
     }
     reset() {
-        this._count = 0;
-        return this._count;
+        this.count = 0;
+        return this.count;
     }
 }
 
